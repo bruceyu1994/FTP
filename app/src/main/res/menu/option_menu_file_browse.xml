@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/upload"
+        android:title="@string/upload" />
+
+    <item
+        android:id="@+id/download_list"
+        android:title="@string/downloadlist" />
+
+    <item
+        android:id="@+id/upload_list"
+        android:title="@string/uploadlist" />
+</menu>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FTP</string>
+    <string name="domainName">域名</string>
+    <string name="userName">用户名</string>
+    <string name="password">密码</string>password
+    <string name="anonymous">anonymous</string>
+    <string name="btn_OK_ID">btn_OK</string>
+    <string name="btn_OK">确定</string>
+    <string name="btn_Cancel_ID">btn_Cancel</string>
+    <string name="btn_Cancel">取消</string>
+    <string name="addOptionBtn">添加</string>
+    <string name="upload">上传</string>
+    <string name="downloadlist">下载列表</string>
+    <string name="pause">暂停</string>
+    <string name="start">开始</string>
+    <string name="uploadlist">上传列表</string>
+
+</resources>
